@@ -1,4 +1,4 @@
-document.write("<div id='demonstration'></div>");
+document.writeln("<div id='demonstration'></div>");
 
 let div = document.getElementById('demonstration');
 
